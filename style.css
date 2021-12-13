@@ -1,0 +1,22 @@
+.darkMode {
+    background-color: grey
+  }
+  
+  .lightMode {
+   background-color: black
+  }
+  
+    .squaresContainer { 
+     height: 600px;
+     width: 600px;
+     display: flex;
+   }
+  
+  .greenSquare {
+    background-color:green;
+  }
+  
+  .redSquare {
+    background-color: red;
+  }
+   
